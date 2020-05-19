@@ -31,14 +31,6 @@ This project is a web application for Delani studio that shows details about the
 * markdown
 
 
-## BDD
-| Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Enter your name  |   Eileen |     |
-| Enter your Email Address  | muirurieileen@gmail.com |   |
-| Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Eileen" , we have received your message. Thank you for reaching out to us.|
-
 ## Known Bugs
 * The site is not responsive enough for some devices.
 * mail chimp API does not function properly.
